@@ -1,0 +1,14 @@
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\bin\Debug\net8.0\1DiaDeCodigo.exe
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\bin\Debug\net8.0\1DiaDeCodigo.deps.json
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\bin\Debug\net8.0\1DiaDeCodigo.runtimeconfig.json
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\bin\Debug\net8.0\1DiaDeCodigo.dll
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\bin\Debug\net8.0\1DiaDeCodigo.pdb
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.AssemblyInfoInputs.cache
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.AssemblyInfo.cs
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.dll
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\refint\1DiaDeCodigo.dll
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.pdb
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\1DiaDeCodigo.genruntimeconfig.cache
+C:\Users\wilsa\source\repos\1DiaDeCodigo\1DiaDeCodigo\obj\Debug\net8.0\ref\1DiaDeCodigo.dll
