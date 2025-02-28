@@ -5,3 +5,5 @@
 * 1 dia de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/1DiaDeCodigo/1DiaDeCodigo/Program.cs"> Consultas LINQ e expressões Lambda</a>
 
 * 2 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/2DiasDeCodigo/2DiasDeCodigo/Program.cs"> Exercícios usando consultas LINQ</a>
+
+* 3 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/3DiasDeCodigo/3DiasDeCodigo/Program.cs"> Lendo arquivos no C#</a>
