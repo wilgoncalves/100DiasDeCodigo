@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo.csproj": {}
+    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo.csproj": {
+    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo.csproj",
-        "projectName": "4DiasDeCodigo",
-        "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo.csproj",
+        "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo.csproj",
+        "projectName": "5DiasDeCodigo",
+        "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo.csproj",
         "packagesPath": "C:\\Users\\wilsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\4DiasDeCodigo\\4DiasDeCodigo\\obj\\",
+        "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\5DiasDeCodigo\\5DiasDeCodigo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
