@@ -11,3 +11,5 @@
 * 4 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/4DiasDeCodigo/4DiasDeCodigo/Program.cs"> Copiando, lendo e alterando arquivos com C#</a>
 
 * 5 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/5DiasDeCodigo/5DiasDeCodigo/Program.cs"> Implicit Operators</a>
+
+* 6 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/6DiasDeCodigo/6DiasDeCodigo/Program.cs">Resolução de questões do BeeCrowd</a>
