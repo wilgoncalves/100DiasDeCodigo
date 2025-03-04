@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\8DiasDeCodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D865D1C4-9DB7-4397-A0F5-E500AC38F6B0}|8DiasDeCodigo\\8DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\8diasdecodigo\\8diasdecodigo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865D1C4-9DB7-4397-A0F5-E500AC38F6B0}|8DiasDeCodigo\\8DiasDeCodigo.csproj|solutionrelative:8diasdecodigo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D865D1C4-9DB7-4397-A0F5-E500AC38F6B0}|8DiasDeCodigo\\8DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\8diasdecodigo\\8diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865D1C4-9DB7-4397-A0F5-E500AC38F6B0}|8DiasDeCodigo\\8DiasDeCodigo.csproj|solutionrelative:8diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\8DiasDeCodigo\\8DiasDeCodigo\\Produto.cs",
+              "RelativeDocumentMoniker": "8DiasDeCodigo\\Produto.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\8DiasDeCodigo\\8DiasDeCodigo\\Produto.cs",
+              "RelativeToolTip": "8DiasDeCodigo\\Produto.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:28:24.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\8DiasDeCodigo\\8DiasDeCodigo\\Program.cs",
+              "RelativeDocumentMoniker": "8DiasDeCodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\8DiasDeCodigo\\8DiasDeCodigo\\Program.cs",
+              "RelativeToolTip": "8DiasDeCodigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:28:08.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
