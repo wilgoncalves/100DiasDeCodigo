@@ -23,3 +23,5 @@
 * 10 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/10DiasDeCodigo/10DiasDeCodigo/Program.cs"> Modificadores de parâmetros</a>
 
 * 11 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/11DiasDeCodigo/11DiasDeCodigo/Program.cs"> Resolução de questões do BeeCrowd</a>
+
+* 12 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/12DiasDeCodigo/12DiasDeCodigo/Entities/Account.cs"> Herança</a>
