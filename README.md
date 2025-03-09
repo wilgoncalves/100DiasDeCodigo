@@ -25,3 +25,5 @@
 * 11 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/11DiasDeCodigo/11DiasDeCodigo/Program.cs"> Resolução de questões do BeeCrowd</a>
 
 * 12 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/12DiasDeCodigo/12DiasDeCodigo/Entities/Account.cs"> Herança</a>
+
+* 13 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/12DiasDeCodigo/12DiasDeCodigo/Program.cs"> Upcasting e downcasting</a>
