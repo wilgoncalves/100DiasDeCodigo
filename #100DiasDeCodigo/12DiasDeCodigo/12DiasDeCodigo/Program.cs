@@ -39,3 +39,15 @@ if (acc3 is SavingsAccount)
     acc5!.UpdateBalance();
     Console.WriteLine("Update!");
 }
+
+
+// Sobreposição, palavras virtual, override e base
+
+Account acc6 = new Account(1001, "Alex", 500.0);
+Account acc7 = new SavingsAccount(1002, "Ana", 500.0, 0.01);
+
+acc1.Withdraw(10.0);
+acc2.Withdraw(10.0);
+
+Console.WriteLine(acc6.Balance);
+Console.WriteLine(acc7.Balance);

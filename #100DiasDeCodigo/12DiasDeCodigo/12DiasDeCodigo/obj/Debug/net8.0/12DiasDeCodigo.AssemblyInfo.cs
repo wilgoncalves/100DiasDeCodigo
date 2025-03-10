@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12DiasDeCodigo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eca420302dc9da8b6076357184101faf782025b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4419a6eaa1b2a9f6bfec98aac3168f9accf4900b")]
 [assembly: System.Reflection.AssemblyProductAttribute("12DiasDeCodigo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12DiasDeCodigo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
