@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\16diasdecodigo\\16diasdecodigo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|solutionrelative:16diasdecodigo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\16diasdecodigo\\16diasdecodigo\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|solutionrelative:16diasdecodigo\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\16diasdecodigo\\16diasdecodigo\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|solutionrelative:16diasdecodigo\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\16diasdecodigo\\16diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8BF43D-09B3-4646-B6A5-F8AD2563C05E}|16DiasDeCodigo\\16DiasDeCodigo.csproj|solutionrelative:16diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "16DiasDeCodigo\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "16DiasDeCodigo\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:36:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Program.cs",
+              "RelativeDocumentMoniker": "16DiasDeCodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Program.cs",
+              "RelativeToolTip": "16DiasDeCodigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:35:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "16DiasDeCodigo\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "16DiasDeCodigo\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:36:12.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "16DiasDeCodigo\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\16DiasDeCodigo\\16DiasDeCodigo\\Entities\\Account.cs",
+              "RelativeToolTip": "16DiasDeCodigo\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:35:51.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
