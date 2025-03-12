@@ -46,8 +46,8 @@ if (acc3 is SavingsAccount)
 Account acc6 = new Account(1001, "Alex", 500.0);
 Account acc7 = new SavingsAccount(1002, "Ana", 500.0, 0.01);
 
-acc1.Withdraw(10.0);
-acc2.Withdraw(10.0);
+acc6.Withdraw(10.0);
+acc7.Withdraw(10.0);
 
 Console.WriteLine(acc6.Balance);
 Console.WriteLine(acc7.Balance);
