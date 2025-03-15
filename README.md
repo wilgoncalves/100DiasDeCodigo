@@ -37,3 +37,5 @@
 * 17 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/17DiasDeCodigo/17DiasDeCodigo/Program.cs"> Exercício resolvido - métodos abstratos</a>
 
 * 18 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/18DiasDeCodigo/18DiasDeCodigo/Program.cs"> Estrutura try-catch</a>
+
+* 19 dias de código-<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/19DiasDeCodigo/19DiasDeCodigo/Program.cs"> Tratamento de exceções personalizadas</a>
