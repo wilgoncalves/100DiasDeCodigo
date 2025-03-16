@@ -38,4 +38,7 @@
 
 * 18 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/18DiasDeCodigo/18DiasDeCodigo/Program.cs"> Estrutura try-catch</a>
 
-* 19 dias de código-<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/19DiasDeCodigo/19DiasDeCodigo/Program.cs"> Tratamento de exceções personalizadas</a>
+* 19 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/19DiasDeCodigo/19DiasDeCodigo/Program.cs"> Tratamento de exceções personalizadas</a>
+
+* 20 dias de código -<a href=https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/20DiasDeCodigo/20DiasDeCodigo/Program.cs">
+Resolução de questões do BeeCrowd</a>
