@@ -54,8 +54,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Services\\ITaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:53:42.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:53:42.686Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Services\\RentalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:53:30.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:53:30.185Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "21DiasDeCodigo\\Program.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\21DiasDeCodigo\\21DiasDeCodigo\\Program.cs",
               "RelativeToolTip": "21DiasDeCodigo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T17:20:38.268Z",
               "EditorCaption": ""
@@ -93,8 +91,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Services\\BrazilTaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:53:19.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:53:19.635Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:32:49.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:32:49.752Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Entities\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:32:40.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:32:40.697Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "21DiasDeCodigo\\Entities\\CarRental.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:32:31.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:32:31.359Z"
             }
           ]
         }
