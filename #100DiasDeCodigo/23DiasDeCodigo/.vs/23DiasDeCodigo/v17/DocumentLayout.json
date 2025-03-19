@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\23diasdecodigo\\23diasdecodigo\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|solutionrelative:23diasdecodigo\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\23diasdecodigo\\23diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|solutionrelative:23diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\23diasdecodigo\\23diasdecodigo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43342809-28AE-459F-B926-4B9B764674B7}|23DiasDeCodigo\\23DiasDeCodigo.csproj|solutionrelative:23diasdecodigo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "23DiasDeCodigo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Entities\\Product.cs",
+              "RelativeToolTip": "23DiasDeCodigo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:43:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "23DiasDeCodigo\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Services\\CalculationService.cs",
+              "RelativeToolTip": "23DiasDeCodigo\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:33:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Program.cs",
+              "RelativeDocumentMoniker": "23DiasDeCodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\23DiasDeCodigo\\23DiasDeCodigo\\Program.cs",
+              "RelativeToolTip": "23DiasDeCodigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:26:25.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
