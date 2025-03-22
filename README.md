@@ -52,3 +52,5 @@ Resolução de questões do BeeCrowd</a>
 * 24 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/24DiasDeCodigo/24DiasDeCodigo/Program.cs"> GetHashCode e Equals</a>
 
 * 25 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/25DiasDeCodigo/25DiasDeCodigo/Program.cs"> Resolução de questões do BeeCrowd</a>
+
+* 26 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/26DiasDeCodigo/26DiasDeCodigo/Program.cs"> Conjuntos: HashSet e SortedSet</a>
