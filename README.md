@@ -56,3 +56,5 @@ Resolução de questões do BeeCrowd</a>
 * 26 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/26DiasDeCodigo/26DiasDeCodigo/Program.cs"> Conjuntos: HashSet e SortedSet</a>
 
 * 27 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/27DiasDeCodigo/27DiasDeCodigo/Program.cs"> Dictionary</a>
+
+* 28 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/28DiasDeCodigo/28DiasDeCodigo/Program.cs"> Extension methods</a>
