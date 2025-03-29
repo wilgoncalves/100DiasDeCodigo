@@ -61,6 +61,8 @@ Resolução de questões do BeeCrowd</a>
 
 * 29 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/29DiasDeCodigo/29DiasDeCodigo/Program.cs"> DateTime/TimeSpan</a>
 
-* 30 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/30DiasDeCodigo/30DiasDeCodigo/Program.cs"> Propriedades e operações com DateTime/TimeSpan</a>
+* 30 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/30DiasDeCodigo/30DiasDeCodigo/Program.cs">Propriedades e operações com DateTime/TimeSpan</a>
 
 * 31 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/31DiasDeCodigo/31DiasDeCodigo/Program.cs"> DateTimeKind e ISO 8601</a>
+
+* 32 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/32DiasDeCodigo/32DiasDeCodigo/Program.cs"> Operadores IS e AS</a>
