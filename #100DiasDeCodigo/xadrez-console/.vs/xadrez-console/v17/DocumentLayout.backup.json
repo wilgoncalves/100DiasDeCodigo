@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:52:46.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Peca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:49:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:48:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Posicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:43:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\Program.cs",
+              "RelativeDocumentMoniker": "34DiasDeCodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\Program.cs",
+              "RelativeToolTip": "34DiasDeCodigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:35:17.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
