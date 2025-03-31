@@ -1,4 +1,6 @@
-﻿namespace tabuleiro
+﻿using tabuleiro;
+
+namespace tabuleiro
 {
     internal class Tabuleiro
     {
@@ -12,7 +14,5 @@
             Colunas = colunas;
             Pecas = new Peca[linhas, colunas];
         }
-
-
     }
 }

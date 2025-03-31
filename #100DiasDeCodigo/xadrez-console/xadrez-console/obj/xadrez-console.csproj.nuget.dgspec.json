@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\xadrez-console.csproj": {}
+    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\xadrez-console.csproj": {
+    "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\xadrez-console.csproj",
+        "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "projectName": "xadrez-console",
-        "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\xadrez-console.csproj",
+        "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "packagesPath": "C:\\Users\\wilsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\obj\\",
+        "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de código\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

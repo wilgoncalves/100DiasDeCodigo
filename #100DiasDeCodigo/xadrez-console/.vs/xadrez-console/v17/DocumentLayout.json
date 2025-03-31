@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\",
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\xadrez-console\\xadrez-console\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|solutionrelative:xadrez-console\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\xadrez-console\\xadrez-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|solutionrelative:xadrez-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\xadrez-console\\xadrez-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|solutionrelative:xadrez-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\xadrez-console\\xadrez-console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|solutionrelative:xadrez-console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\34diasdecodigo\\34diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911CC0AD-DD4A-41E8-98D6-41DA55DE9250}|34DiasDeCodigo\\xadrez-console.csproj|solutionrelative:34diasdecodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\xadrez-console\\xadrez-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF847AB-F9C8-43D3-A254-C6FA6F01746C}|xadrez-console\\xadrez-console.csproj|solutionrelative:xadrez-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,66 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tabuleiro.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
-              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
-              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "xadrez-console\\tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "xadrez-console\\tabuleiro\\Posicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:52:46.972Z",
+              "WhenOpened": "2025-03-31T12:01:43.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Peca.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Peca.cs",
-              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Peca.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Peca.cs",
-              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Peca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:49:40.997Z",
+              "WhenOpened": "2025-03-31T12:01:18.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cor.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Cor.cs",
-              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Cor.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Cor.cs",
-              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Cor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "xadrez-console\\tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "xadrez-console\\tabuleiro\\Peca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:48:29.914Z",
+              "WhenOpened": "2025-03-31T12:01:10.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Posicao.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Posicao.cs",
-              "RelativeDocumentMoniker": "34DiasDeCodigo\\tabuleiro\\Posicao.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\tabuleiro\\Posicao.cs",
-              "RelativeToolTip": "34DiasDeCodigo\\tabuleiro\\Posicao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "xadrez-console\\tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "xadrez-console\\tabuleiro\\Cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:43:10.1Z"
+              "WhenOpened": "2025-03-31T12:01:04.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\Program.cs",
-              "RelativeDocumentMoniker": "34DiasDeCodigo\\Program.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\34DiasDeCodigo\\34DiasDeCodigo\\Program.cs",
-              "RelativeToolTip": "34DiasDeCodigo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\Program.cs",
+              "RelativeDocumentMoniker": "xadrez-console\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\xadrez-console\\xadrez-console\\Program.cs",
+              "RelativeToolTip": "xadrez-console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:35:17.562Z"
+              "WhenOpened": "2025-03-31T12:00:39.907Z",
+              "EditorCaption": ""
             }
           ]
         }

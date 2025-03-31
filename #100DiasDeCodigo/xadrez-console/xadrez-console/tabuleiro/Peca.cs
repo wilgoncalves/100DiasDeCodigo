@@ -1,4 +1,6 @@
-﻿namespace tabuleiro
+﻿using tabuleiro;
+
+namespace tabuleiro
 {
     internal class Peca
     {
@@ -14,8 +16,5 @@
             Tab = tab;
             QteMovimentos = 0;
         }
-
-
-
     }
 }
