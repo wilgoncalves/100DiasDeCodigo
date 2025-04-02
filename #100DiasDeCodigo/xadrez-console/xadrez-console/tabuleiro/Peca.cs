@@ -9,11 +9,11 @@ namespace tabuleiro
         public int QteMovimentos { get; protected set; }
         public Tabuleiro? Tab { get; set; }
 
-        public Peca(Cor cor, Tabuleiro? tab)
+        public Peca(Tabuleiro? tab, Cor cor)
         {
             Posicao = null;
-            Cor = cor;
             Tab = tab;
+            Cor = cor;
             QteMovimentos = 0;
         }
     }
