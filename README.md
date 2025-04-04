@@ -76,3 +76,5 @@ Resolução de questões do BeeCrowd</a>
 * 36 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/Tela.cs"> Jogo de xadrez - Criando exceções e melhorando impressão do tabuleiro</a>
 
 * 37 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/xadrez/PartidaDeXadrez.cs"> Jogo de xadrez - Preparando o programa para testes com o tabuleiro</a>
+
+* 38 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/Tela.cs"> Jogo de xadrez - Implementando e testando movimentos possíveis</a>
