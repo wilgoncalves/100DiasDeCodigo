@@ -94,3 +94,5 @@ Resolução de questões do BeeCrowd</a>
 * 45 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/xadrez/Rei.cs"> Jogo de xadrez - Implementando jogadas especiais roque pequeno e roque grande</a>
 
 * 46 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/xadrez/Peao.cs"> Jogo de xadrez - Implementando jogada especial en passant</a>
+
+* 47 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/xadrez/PartidaDeXadrez.cs"> Jogo de xadrez - Implementando jogada especial promoção</a>
