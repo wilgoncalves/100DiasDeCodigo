@@ -1,5 +1,4 @@
-﻿using System.Net.Http.Headers;
-using tabuleiro;
+﻿using tabuleiro;
 using xadrez;
 
 try
