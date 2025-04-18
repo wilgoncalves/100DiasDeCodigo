@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0555f144ccd5687d6e46c559aca2c267e5cf9ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3564f4961be08f1672fa543361d9375895c50750")]
 [assembly: System.Reflection.AssemblyProductAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
