@@ -98,3 +98,5 @@ Resolução de questões do BeeCrowd</a>
 * 47 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/xadrez-console/xadrez-console/xadrez/PartidaDeXadrez.cs"> Jogo de xadrez - Implementando jogada especial promoção</a>
 
 * 48 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Entities"> Minimal API: Rango Ágil - Criando primeiras classes</a>
+
+* 49 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/DbContexts/RangoDbContext.cs"> Minimal API: Rango Ágil - Configurando Entity Framework</a>
