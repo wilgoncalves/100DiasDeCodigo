@@ -101,4 +101,4 @@ Resolução de questões do BeeCrowd</a>
 
 * 49 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/DbContexts/RangoDbContext.cs"> Minimal API: Rango Ágil - Configurando Entity Framework</a>
 
-*50 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Migrations/20250419152530_Initial.cs"> Minimal API: Rango Ágil - Criando banco de dados</a>
+* 50 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Migrations/20250419152530_Initial.cs"> Minimal API: Rango Ágil - Criando banco de dados</a>
