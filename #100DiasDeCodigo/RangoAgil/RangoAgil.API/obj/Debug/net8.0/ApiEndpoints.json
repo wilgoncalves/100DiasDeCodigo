@@ -20,13 +20,13 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
-    "RelativePath": "rango",
+    "RelativePath": "rango/{id:int}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "RangoId",
+        "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
       }
@@ -44,38 +44,25 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
-    "RelativePath": "rango/{nome}",
+    "RelativePath": "rangos",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "nome",
+        "Name": "name",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "RangoAgil.API.Entities.Rango",
-        "MediaTypes": [
-          "application/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_4",
-    "RelativePath": "rangos",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
       {
-        "Type": "Microsoft.EntityFrameworkCore.DbSet\u00601[[RangoAgil.API.Entities.Rango, RangoAgil.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[RangoAgil.API.Entities.Rango, RangoAgil.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
