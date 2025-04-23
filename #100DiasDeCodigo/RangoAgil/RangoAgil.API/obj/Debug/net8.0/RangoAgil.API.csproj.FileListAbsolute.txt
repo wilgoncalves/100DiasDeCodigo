@@ -156,3 +156,5 @@ C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\R
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\obj\Debug\net8.0\RangoAgil.API.csproj.AssemblyReference.cache
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\obj\Debug\net8.0\RangoAgi.B8D32F59.Up2Date
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
