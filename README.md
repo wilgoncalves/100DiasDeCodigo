@@ -110,3 +110,5 @@ Resolução de questões do BeeCrowd</a>
 * 53 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Program.cs"> Minimal API: Rango Ágil - HTTP Results</a>
 
 * 54 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Program.cs"> Minimal API: Rango Ágil - Implementando AutoMapper</a>
+
+* 55 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Program.cs"> Minimal API: Rango Ágil - Atualizando endpoints</a>
