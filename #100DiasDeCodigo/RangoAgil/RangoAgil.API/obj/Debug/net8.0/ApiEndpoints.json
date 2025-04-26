@@ -20,7 +20,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
-    "RelativePath": "rangos",
+    "RelativePath": "rangos/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -49,7 +49,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_5",
-    "RelativePath": "rangos",
+    "RelativePath": "rangos/",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -73,7 +73,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_4",
-    "RelativePath": "rangos/{rangoId:int}",
+    "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -98,7 +98,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_6",
-    "RelativePath": "rangos/{rangoId:int}",
+    "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "PUT",
     "IsController": false,
     "Order": 0,
@@ -130,7 +130,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_7",
-    "RelativePath": "rangos/{rangoId:int}",
+    "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "DELETE",
     "IsController": false,
     "Order": 0,
@@ -157,7 +157,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
-    "RelativePath": "rangos/{rangoId:int}/ingredientes",
+    "RelativePath": "rangos/{rangoId:int}/ingredientes/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -170,12 +170,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 204
-      },
-      {
-        "Type": "RangoAgil.API.Models.IngredienteDTO",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RangoAgil.API.Models.IngredienteDTO, RangoAgil.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
