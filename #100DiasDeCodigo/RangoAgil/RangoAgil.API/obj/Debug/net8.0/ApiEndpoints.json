@@ -18,8 +18,8 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
+    "Method": "GetRangosAsync",
     "RelativePath": "rangos/",
     "HttpMethod": "GET",
     "IsController": false,
@@ -47,8 +47,8 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_5",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
+    "Method": "PostRangosAsync",
     "RelativePath": "rangos/",
     "HttpMethod": "POST",
     "IsController": false,
@@ -57,7 +57,7 @@
       {
         "Name": "rangoParaCriacaoDTO",
         "Type": "RangoAgil.API.Models.RangoParaCriacaoDTO",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -67,12 +67,17 @@
           "application/json"
         ],
         "StatusCode": 201
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
       }
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_4",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
+    "Method": "GetRangosComIdAsync",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "GET",
     "IsController": false,
@@ -86,6 +91,11 @@
     ],
     "ReturnTypes": [
       {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
         "Type": "RangoAgil.API.Models.RangoDTO",
         "MediaTypes": [
           "application/json"
@@ -96,8 +106,8 @@
     "EndpointName": "GetRangos"
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_6",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
+    "Method": "PutRangosAsync",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "PUT",
     "IsController": false,
@@ -128,8 +138,8 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_7",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
+    "Method": "DeleteRangosAsync",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "DELETE",
     "IsController": false,
@@ -155,8 +165,8 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "ContainingType": "RangoAgil.API.EndpointHandlers.IngredientesHandlers",
+    "Method": "GetIngredientesAsync",
     "RelativePath": "rangos/{rangoId:int}/ingredientes/",
     "HttpMethod": "GET",
     "IsController": false,
@@ -170,7 +180,12 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[RangoAgil.API.Models.IngredienteDTO, RangoAgil.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      },
+      {
+        "Type": "RangoAgil.API.Models.IngredienteDTO",
         "MediaTypes": [
           "application/json"
         ],
