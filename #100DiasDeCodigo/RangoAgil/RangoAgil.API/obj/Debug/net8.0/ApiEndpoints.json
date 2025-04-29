@@ -1,23 +1,5 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
-    "RelativePath": "",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
     "Method": "GetRangosAsync",
     "RelativePath": "rangos/",
@@ -48,7 +30,7 @@
   },
   {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
-    "Method": "PostRangosAsync",
+    "Method": "CreateRangoAsync",
     "RelativePath": "rangos/",
     "HttpMethod": "POST",
     "IsController": false,
@@ -77,7 +59,7 @@
   },
   {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
-    "Method": "GetRangosComIdAsync",
+    "Method": "GetRangoById",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "GET",
     "IsController": false,
@@ -107,7 +89,7 @@
   },
   {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
-    "Method": "PutRangosAsync",
+    "Method": "UpdateRangoAsync",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "PUT",
     "IsController": false,
@@ -139,7 +121,7 @@
   },
   {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
-    "Method": "DeleteRangosAsync",
+    "Method": "DeleteRangoAsync",
     "RelativePath": "rangos/{rangoId:int}/",
     "HttpMethod": "DELETE",
     "IsController": false,
@@ -189,6 +171,22 @@
         "MediaTypes": [
           "application/json"
         ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RangoAgil.API.Extensions.EndpointRouteBuilderExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CRegistrarIngredientesEndpoints\u003Eb__1_0",
+    "RelativePath": "rangos/{rangoId:int}/ingredientes/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       }
     ]

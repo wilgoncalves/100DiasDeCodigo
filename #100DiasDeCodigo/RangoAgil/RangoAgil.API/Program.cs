@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using RangoAgil.API.DbContexts;
 using RangoAgil.API.EndpointHandlers;
+using RangoAgil.API.Extensions;
+using System.Net;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,25 +13,29 @@ builder.Services.AddDbContext<RangoDbContext>(
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+builder.Services.AddProblemDetails();
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler();
 
-// Agrupando endpoints
-var rangosEndpoints = app.MapGroup("/rangos");
-var rangosComIdEndpoints = rangosEndpoints.MapGroup("{rangoId:int}");
-var ingredientesEndpoints = rangosComIdEndpoints.MapGroup("/ingredientes");
+    // Referência de detalhamento que pode ser utilizado:
+    //app.UseExceptionHandler(configureApplicationBuilder =>
+    //{
+    //    configureApplicationBuilder.Run(
+    //        async context =>
+    //        {
+    //            context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+    //            context.Response.ContentType = "text.html";
+    //            await context.Response.WriteAsync("Um problema inesperado aconteceu!");
+    //        });
+    //});
+}
 
-rangosEndpoints.MapGet("", RangosHandlers.GetRangosAsync);
 
-ingredientesEndpoints.MapGet("", IngredientesHandlers.GetIngredientesAsync);
-
-rangosComIdEndpoints.MapGet("", RangosHandlers.GetRangoById).WithName("GetRangos");
-
-rangosEndpoints.MapPost("", RangosHandlers.CreateRangoAsync);
-
-rangosComIdEndpoints.MapPut("", RangosHandlers.UpdateRangoAsync);
-
-rangosComIdEndpoints.MapDelete("", RangosHandlers.DeleteRangoAsync);
+app.RegistrarRangosEndpoints();
+app.RegistrarIngredientesEndpoints();
 
 app.Run();

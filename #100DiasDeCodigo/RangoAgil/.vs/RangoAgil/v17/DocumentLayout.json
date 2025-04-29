@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\rangoagil.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\rangoagil.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\extensions\\endpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\extensions\\endpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\endpointhandlers\\rangoshandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\endpointhandlers\\rangoshandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\endpointfilters\\rangoislockedfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\endpointfilters\\rangoislockedfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\models\\rangoparaatualizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\models\\rangoparaatualizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\rangoagil\\rangoagil.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7B07C9F6-CB7C-4366-884E-93BC75FDECCB}|RangoAgil.API\\RangoAgil.API.csproj|solutionrelative:rangoagil.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,28 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RangoAgil.API",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\RangoAgil.API.csproj",
-              "RelativeDocumentMoniker": "RangoAgil.API\\RangoAgil.API.csproj",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\RangoAgil.API.csproj",
-              "RelativeToolTip": "RangoAgil.API\\RangoAgil.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-28T21:32:07.735Z",
+              "DocumentIndex": 1,
+              "Title": "RangoIsLockedFilter.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\EndpointFilters\\RangoIsLockedFilter.cs",
+              "RelativeDocumentMoniker": "RangoAgil.API\\EndpointFilters\\RangoIsLockedFilter.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\EndpointFilters\\RangoIsLockedFilter.cs",
+              "RelativeToolTip": "RangoAgil.API\\EndpointFilters\\RangoIsLockedFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:12:25.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RangosHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\EndpointHandlers\\RangosHandlers.cs",
-              "RelativeDocumentMoniker": "RangoAgil.API\\EndpointHandlers\\RangosHandlers.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\EndpointHandlers\\RangosHandlers.cs",
-              "RelativeToolTip": "RangoAgil.API\\EndpointHandlers\\RangosHandlers.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "RangoAgil.API\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "RangoAgil.API\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:14:45.962Z",
+              "WhenOpened": "2025-04-29T14:41:08.631Z",
               "EditorCaption": ""
             },
             {
@@ -82,7 +78,7 @@
               "RelativeDocumentMoniker": "RangoAgil.API\\Program.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\Program.cs",
               "RelativeToolTip": "RangoAgil.API\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T18:04:28.664Z",
               "EditorCaption": ""
@@ -97,8 +93,7 @@
               "RelativeToolTip": "RangoAgil.API\\Models\\RangoParaAtualizacaoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:17:33.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:17:33.052Z"
             },
             {
               "$type": "Document",
@@ -110,8 +105,7 @@
               "RelativeToolTip": "RangoAgil.API\\Models\\IngredienteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:12:15.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:12:15.409Z"
             },
             {
               "$type": "Document",
@@ -123,8 +117,7 @@
               "RelativeToolTip": "RangoAgil.API\\Entities\\Ingrediente.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T23:54:40.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T23:54:40.066Z"
             },
             {
               "$type": "Document",
@@ -136,20 +129,7 @@
               "RelativeToolTip": "RangoAgil.API\\EndpointHandlers\\IngredientesHandlers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:39:02.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\appsettings.json",
-              "RelativeDocumentMoniker": "RangoAgil.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\RangoAgil\\RangoAgil.API\\appsettings.json",
-              "RelativeToolTip": "RangoAgil.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-18T18:10:05.69Z"
+              "WhenOpened": "2025-04-28T19:39:02.07Z"
             }
           ]
         }
