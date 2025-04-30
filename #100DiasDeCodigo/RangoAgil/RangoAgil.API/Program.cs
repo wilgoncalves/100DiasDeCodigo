@@ -1,9 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using RangoAgil.API.DbContexts;
-using RangoAgil.API.EndpointHandlers;
 using RangoAgil.API.Extensions;
-using System.Net;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +11,12 @@ builder.Services.AddDbContext<RangoDbContext>(
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddProblemDetails();
+
+builder.Services.AddAuthentication().AddJwtBearer();
+builder.Services.AddAuthorization();
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
@@ -32,6 +35,15 @@ if (!app.Environment.IsDevelopment())
     //            await context.Response.WriteAsync("Um problema inesperado aconteceu!");
     //        });
     //});
+}
+
+app.UseAuthentication();
+app.UseAuthorization();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 

@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "RangoAgil.API.Extensions.EndpointRouteBuilderExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CRegistrarRangosEndpoints\u003Eb__0_0",
+    "RelativePath": "pratos/{pratoId:int}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pratoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Description": "Utilize a outra rota da API \u003E\u003E /rangos/{rangoId} para evitar maiores transtornos",
+    "Summary": "Este endpoint est\u00E1 deprecated e ser\u00E1 descontinuado na vers\u00E3o 2 da API."
+  },
+  {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
     "Method": "GetRangosAsync",
     "RelativePath": "rangos/",
@@ -26,7 +52,8 @@
         ],
         "StatusCode": 200
       }
-    ]
+    ],
+    "Summary": "Esta rota retornar\u00E1 todos os Rangos"
   },
   {
     "ContainingType": "RangoAgil.API.EndpointHandlers.RangosHandlers",
