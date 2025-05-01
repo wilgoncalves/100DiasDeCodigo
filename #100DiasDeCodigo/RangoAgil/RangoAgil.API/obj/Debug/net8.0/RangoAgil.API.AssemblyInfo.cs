@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6b17c78f-a3b6-4fa6-bf83-9be9ede2bee8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eefb395b2c74a3f05f9d171a1ec7556468101d30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+271be2bc412266ab6a1df002e5f546f50590a8cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RangoAgil.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
-﻿using RangoAgil.API.EndpointFilters;
+﻿using Microsoft.AspNetCore.Identity;
+using RangoAgil.API.EndpointFilters;
 using RangoAgil.API.EndpointHandlers;
 
 namespace RangoAgil.API.Extensions;
@@ -7,6 +8,8 @@ public static class EndpointRouteBuilderExtensions
 {
     public static void RegistrarRangosEndpoints(this IEndpointRouteBuilder endpointRouteBuilder)
     {
+        endpointRouteBuilder.MapGroup("/identity/").MapIdentityApi<IdentityUser>();
+
         endpointRouteBuilder.MapGet("/pratos/{pratoId:int}", (int pratoId) => $"O prato {pratoId} é delicioso!")
             .WithOpenApi(operation =>
             {
@@ -21,6 +24,7 @@ public static class EndpointRouteBuilderExtensions
         var rangosComIdEndpoints = rangosEndpoints.MapGroup("{rangoId:int}");
 
         var rangosComIdEndpointsAndLockFilter = endpointRouteBuilder.MapGroup("/rangos/{rangoId:int}")
+            .RequireAuthorization("RequireAdminFromBrazil")
             .RequireAuthorization()
             .AddEndpointFilter(new RangoIsLockedFilter(27))
             .AddEndpointFilter(new RangoIsLockedFilter(8));

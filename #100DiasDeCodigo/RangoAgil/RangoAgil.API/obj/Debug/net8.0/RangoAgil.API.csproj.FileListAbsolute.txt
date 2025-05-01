@@ -157,7 +157,6 @@ C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\R
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\obj\Debug\net8.0\RangoAgi.B8D32F59.Up2Date
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\MiniValidation.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -173,3 +172,9 @@ C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\R
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\RangoAgil\RangoAgil.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
