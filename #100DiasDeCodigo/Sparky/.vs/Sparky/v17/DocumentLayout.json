@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64696C0E-50C2-447D-A151-41537704A6B2}|SparkyMSTest\\SparkyMSTest.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkymstest\\calculatormstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64696C0E-50C2-447D-A151-41537704A6B2}|SparkyMSTest\\SparkyMSTest.csproj|solutionrelative:sparkymstest\\calculatormstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparky\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|solutionrelative:sparky\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorMSTests.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyMSTest\\CalculatorMSTests.cs",
+              "RelativeDocumentMoniker": "SparkyMSTest\\CalculatorMSTests.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyMSTest\\CalculatorMSTests.cs",
+              "RelativeToolTip": "SparkyMSTest\\CalculatorMSTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:13:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\Calculator.cs",
+              "RelativeDocumentMoniker": "Sparky\\Calculator.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\Calculator.cs",
+              "RelativeToolTip": "Sparky\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:03:43.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
