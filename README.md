@@ -126,3 +126,5 @@ Resolução de questões do BeeCrowd</a>
 * 61 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/RangoAgil/RangoAgil.API/Program.cs"> Minimal API: Rango Ágil - Adicionando e configurando camada de segurança</a>
 
 * 62 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyMSTest/CalculatorMSTests.cs"> Sparky Project - Primeiro teste unitário</a>
+
+* 63 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CalculatorNUnitTests.cs"> Sparky Project - Implementando testes de unidade"</a>
