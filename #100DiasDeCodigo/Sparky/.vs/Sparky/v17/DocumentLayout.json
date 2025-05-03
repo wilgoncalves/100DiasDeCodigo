@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64696C0E-50C2-447D-A151-41537704A6B2}|SparkyMSTest\\SparkyMSTest.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkymstest\\calculatormstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64696C0E-50C2-447D-A151-41537704A6B2}|SparkyMSTest\\SparkyMSTest.csproj|solutionrelative:sparkymstest\\calculatormstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E8BCDD-B352-4AC2-ACAD-79BBDE27AC42}|SparkyNUnitTest\\SparkyNUnitTest.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkynunittest\\calculatornunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E8BCDD-B352-4AC2-ACAD-79BBDE27AC42}|SparkyNUnitTest\\SparkyNUnitTest.csproj|solutionrelative:sparkynunittest\\calculatornunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparky\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorMSTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyMSTest\\CalculatorMSTests.cs",
-              "RelativeDocumentMoniker": "SparkyMSTest\\CalculatorMSTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyMSTest\\CalculatorMSTests.cs",
-              "RelativeToolTip": "SparkyMSTest\\CalculatorMSTests.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Title": "CalculatorNUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\CalculatorNUnitTests.cs",
+              "RelativeDocumentMoniker": "SparkyNUnitTest\\CalculatorNUnitTests.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\CalculatorNUnitTests.cs",
+              "RelativeToolTip": "SparkyNUnitTest\\CalculatorNUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:13:19.227Z",
+              "WhenOpened": "2025-05-03T16:30:59.528Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Sparky\\Calculator.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\Calculator.cs",
               "RelativeToolTip": "Sparky\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T19:03:43.083Z",
               "EditorCaption": ""
