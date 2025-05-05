@@ -130,3 +130,5 @@ Resolução de questões do BeeCrowd</a>
 * 63 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CalculatorNUnitTests.cs"> Sparky Project - Implementando testes de unidade</a>
 
 * 64 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CalculatorNUnitTests.cs"> Sparky Project - Testando múltiplos valores</a>
+
+* 65 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CalculatorNUnitTests.cs"> Sparky Project - Realizando testes com string e valores nulos</a>
