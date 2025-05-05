@@ -17,13 +17,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 310,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 319,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,9 +28,9 @@
               "RelativeDocumentMoniker": "SparkyNUnitTest\\CalculatorNUnitTests.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\CalculatorNUnitTests.cs",
               "RelativeToolTip": "SparkyNUnitTest\\CalculatorNUnitTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T16:30:59.528Z",
+              "WhenOpened": "2025-05-05T12:45:07.077Z",
               "EditorCaption": ""
             },
             {
@@ -45,15 +41,19 @@
               "RelativeDocumentMoniker": "Sparky\\Calculator.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\Calculator.cs",
               "RelativeToolTip": "Sparky\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:03:43.083Z",
+              "WhenOpened": "2025-05-05T12:40:35.752Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         },
         {
-          "DockedHeight": 90,
+          "DockedHeight": 81,
           "SelectedChildIndex": -1,
           "Children": [
             {

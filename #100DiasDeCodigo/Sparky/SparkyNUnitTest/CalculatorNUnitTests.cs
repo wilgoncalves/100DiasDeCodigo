@@ -6,6 +6,14 @@ namespace Sparky
     [TestFixture]
     public class CalculatorNUnitTests
     {
+        private Calculator _calc;
+
+        [SetUp]
+        public void SetUp()
+        {
+            _calc = new Calculator();
+        }
+
         [Test]
         public void AddNumbers_InputTwoInt_GetCorrectAddition()
         {
@@ -25,9 +33,7 @@ namespace Sparky
         [TestCase(5.49, 10.59)] //16.08
         public void AddNumbersDouble_InputTwoDouble_GetCorrectAddition(double a, double b)
         {
-            Calculator calc = new();
-
-            double result = calc.AddNumbersDouble(a, b);
+            double result = _calc.AddNumbersDouble(a, b);
 
             ClassicAssert.AreEqual(15.9, result, 1);
         }
@@ -35,11 +41,8 @@ namespace Sparky
         [Test]
         public void IsOddChecker_InputEvenNumber_ReturnFalse()
         {
-            //Arrange
-            Calculator calc = new();
-
             //Act
-            bool isOdd = calc.IsOddNumber(10);
+            bool isOdd = _calc.IsOddNumber(10);
 
             //Assert
             ClassicAssert.That(isOdd, Is.EqualTo(false));
@@ -54,11 +57,8 @@ namespace Sparky
         [TestCase(13)]
         public void IsOddChecker_InputOddNumber_ReturnTrue(int a)
         {
-            //Arrange
-            Calculator calc = new();
-
             //Act
-            bool isOdd = calc.IsOddNumber(a);
+            bool isOdd = _calc.IsOddNumber(a);
 
             //Assert
             ClassicAssert.That(isOdd, Is.EqualTo(true));
@@ -72,9 +72,20 @@ namespace Sparky
         [TestCase(11, ExpectedResult = true)]
         public bool IsOddChecker_InputNumber_ReturnTrueIfOdd(int a)
         {
-            Calculator calc = new();
+            return _calc.IsOddNumber(a);
+        }
 
-            return calc.IsOddNumber(a);
+        [Test]
+        public void OddRanger_InputMinAndMaxRange_ReturnsValidOddNumberRange()
+        {
+            // arrange
+            List<int> expectedRange = new() { 5, 7, 9 }; // Input values: 5 - 10
+
+            // act
+            List<int> result = _calc.GetOddRange(5, 10);
+
+            // assert
+            ClassicAssert.That(result, Is.EquivalentTo(expectedRange));
         }
     }
 }
