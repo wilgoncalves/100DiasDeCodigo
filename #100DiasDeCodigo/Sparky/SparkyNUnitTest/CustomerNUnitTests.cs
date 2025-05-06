@@ -17,7 +17,7 @@ namespace Sparky
         [Test]
         public void CombineNames_InputFirstAndLastName_ReturnFullName()
         {
-            _customer.GreetAndCombineNames("Willian", "Gonçalves");
+            _customer!.GreetAndCombineNames("Willian", "Gonçalves");
 
             ClassicAssert.AreEqual(_customer.GreetMessage, "Hello, Willian Gonçalves");
             // OR:
@@ -36,7 +36,14 @@ namespace Sparky
             // act
             
             // assert
-            ClassicAssert.IsNull(_customer.GreetMessage);
+            ClassicAssert.IsNull(_customer!.GreetMessage);
+        }
+
+        [Test]
+        public void DiscountCheck_DefaultCustomer_ReturnsDiscountInRange()
+        {
+            int result = _customer!.Discount;
+            ClassicAssert.That(result, Is.InRange(10, 25));
         }
     }
 }

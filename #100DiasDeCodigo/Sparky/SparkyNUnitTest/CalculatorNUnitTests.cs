@@ -61,7 +61,7 @@ namespace Sparky
             bool isOdd = _calc.IsOddNumber(a);
 
             //Assert
-            ClassicAssert.That(isOdd, Is.EqualTo(true));
+            Assert.That(isOdd, Is.EqualTo(true));
             //OR:
             //ClassicAssert.IsTrue(isOdd);
         }
@@ -79,13 +79,22 @@ namespace Sparky
         public void OddRanger_InputMinAndMaxRange_ReturnsValidOddNumberRange()
         {
             // arrange
-            List<int> expectedRange = new() { 5, 7, 9 }; // Input values: 5 - 10
+            List<int> expectedOddRange = new() { 5, 7, 9 }; // Input values: 5 - 10
 
             // act
             List<int> result = _calc.GetOddRange(5, 10);
 
             // assert
-            ClassicAssert.That(result, Is.EquivalentTo(expectedRange));
+            ClassicAssert.That(result, Is.EquivalentTo(expectedOddRange));
+            //OR:
+            //ClassicAssert.AreEqual(expectedOddRange, result);
+            //ClassicAssert.Contains(7, result);
+            ClassicAssert.That(result, Does.Contain(7));
+            ClassicAssert.That(result, Is.Not.Empty);
+            ClassicAssert.That(result.Count, Is.EqualTo(3));
+            ClassicAssert.That(result, Has.No.Member(6));
+            ClassicAssert.That(result, Is.Ordered);
+            ClassicAssert.That(result, Is.Unique);
         }
     }
 }
