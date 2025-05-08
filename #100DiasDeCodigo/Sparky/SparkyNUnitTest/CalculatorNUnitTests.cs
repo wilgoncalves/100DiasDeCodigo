@@ -6,7 +6,7 @@ namespace Sparky
     [TestFixture]
     public class CalculatorNUnitTests
     {
-        private Calculator _calc;
+        private Calculator? _calc;
 
         [SetUp]
         public void SetUp()
@@ -33,7 +33,7 @@ namespace Sparky
         [TestCase(5.49, 10.59)] //16.08
         public void AddNumbersDouble_InputTwoDouble_GetCorrectAddition(double a, double b)
         {
-            double result = _calc.AddNumbersDouble(a, b);
+            double result = _calc!.AddNumbersDouble(a, b);
 
             ClassicAssert.AreEqual(15.9, result, 1);
         }
@@ -42,7 +42,7 @@ namespace Sparky
         public void IsOddChecker_InputEvenNumber_ReturnFalse()
         {
             //Act
-            bool isOdd = _calc.IsOddNumber(10);
+            bool isOdd = _calc!.IsOddNumber(10);
 
             //Assert
             ClassicAssert.That(isOdd, Is.EqualTo(false));
@@ -58,7 +58,7 @@ namespace Sparky
         public void IsOddChecker_InputOddNumber_ReturnTrue(int a)
         {
             //Act
-            bool isOdd = _calc.IsOddNumber(a);
+            bool isOdd = _calc!.IsOddNumber(a);
 
             //Assert
             Assert.That(isOdd, Is.EqualTo(true));
@@ -72,7 +72,7 @@ namespace Sparky
         [TestCase(11, ExpectedResult = true)]
         public bool IsOddChecker_InputNumber_ReturnTrueIfOdd(int a)
         {
-            return _calc.IsOddNumber(a);
+            return _calc!.IsOddNumber(a);
         }
 
         [Test]
@@ -82,7 +82,7 @@ namespace Sparky
             List<int> expectedOddRange = new() { 5, 7, 9 }; // Input values: 5 - 10
 
             // act
-            List<int> result = _calc.GetOddRange(5, 10);
+            List<int> result = _calc!.GetOddRange(5, 10);
 
             // assert
             ClassicAssert.That(result, Is.EquivalentTo(expectedOddRange));
