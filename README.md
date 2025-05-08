@@ -136,3 +136,5 @@ Resolução de questões do BeeCrowd</a>
 * 66 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CalculatorNUnitTests.cs"> Sparky Project - Implementando métodos auxiliares para Coleções</a>
 
 * 67 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/CustomerNUnitTests.cs"> Sparky Project - Implementando testes com Exceções</a>
+
+*68 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/FiboNUnitTests.cs"> Sparky Project - Implementando testes para série de Fibonacci</a>
