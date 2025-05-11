@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{E0E8BCDD-B352-4AC2-ACAD-79BBDE27AC42}|SparkyNUnitTest\\SparkyNUnitTest.csproj|solutionrelative:sparkynunittest\\bankaccountnunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparky\\logbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|solutionrelative:sparky\\logbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparky\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|solutionrelative:sparky\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparky\\ilogbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{267F6968-3FDD-4420-BCDC-761196AE879F}|Sparky\\Sparky.csproj|solutionrelative:sparky\\ilogbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,46 +32,20 @@
               "RelativeDocumentMoniker": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "RelativeToolTip": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvyEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T12:58:49.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILogBook.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\ILogBook.cs",
-              "RelativeDocumentMoniker": "Sparky\\ILogBook.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\ILogBook.cs",
-              "RelativeToolTip": "Sparky\\ILogBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:54:06.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LogBook.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\LogBook.cs",
-              "RelativeDocumentMoniker": "Sparky\\LogBook.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\LogBook.cs",
-              "RelativeToolTip": "Sparky\\LogBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:53:35.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\BankAccount.cs",
               "RelativeDocumentMoniker": "Sparky\\BankAccount.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\BankAccount.cs",
               "RelativeToolTip": "Sparky\\BankAccount.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T12:47:40.858Z",
               "EditorCaption": ""
