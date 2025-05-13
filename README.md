@@ -144,3 +144,5 @@ Resolução de questões do BeeCrowd</a>
 * 70 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/ProductNUnitTests.cs"> Sparky Project - Testando uso indevido do MOQ</a>
 
 * 71 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/BankAccountNUnitTests.cs"> Sparky Project - Utilizando MOQ com retorno condicional</a>
+
+* 72 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/SparkyNUnitTest/BankAccountNUnitTests.cs"> Sparky Project - Aplicando testes para validar retornos padrões</a>
