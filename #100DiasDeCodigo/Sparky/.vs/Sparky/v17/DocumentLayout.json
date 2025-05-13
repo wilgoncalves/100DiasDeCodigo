@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "RelativeToolTip": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAADwv2AAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv0kAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T01:30:10.409Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Sparky\\BankAccount.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:12:25.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T00:12:25.61Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Sparky\\LogBook.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:08:40.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T00:08:40.459Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Sparky\\ILogBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:06:56.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T00:06:56.981Z"
             }
           ]
         },

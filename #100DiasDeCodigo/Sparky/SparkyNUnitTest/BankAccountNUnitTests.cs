@@ -71,7 +71,7 @@ namespace Sparky
             var result = bankAccount.Withdraw(300);
             ClassicAssert.IsFalse(result);
         }
-        // Or => teatcher's resolution:
+        // Or => teacher's resolution:
         [Test]
         [TestCase(200, 300)]
         public void BankWithdraw_Withdraw300With200Balance_ReturnsFalse(int balance, int withdraw)
