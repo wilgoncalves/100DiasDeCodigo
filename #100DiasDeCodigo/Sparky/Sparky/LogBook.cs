@@ -25,6 +25,12 @@
         {
             Console.WriteLine(message);
         }
+
+        public string MessageWithReturnString(string message)
+        {
+            Console.WriteLine(message);
+            return message.ToLower();
+        }
     }
 
     //public class LogFaker : ILogBook
