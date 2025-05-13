@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparkyNUnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d71b9aebfbc3f880b1874f41c7e820a29800ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+221e05beb5f98d89ca911c45be3f638535b6d8d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparkyNUnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparkyNUnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

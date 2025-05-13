@@ -2,6 +2,10 @@
 {
     public interface ILogBook
     {
-        public void Message(string message);
+        void Message(string message);
+
+        bool LogToDb(string message);
+
+        bool LogBalanceAfterWithdrawal(int balanceAfterWithdrawal);
     }
 }
