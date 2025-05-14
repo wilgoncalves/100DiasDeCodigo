@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyNUnitTest\\BankAccountNUnitTests.cs",
               "RelativeToolTip": "SparkyNUnitTest\\BankAccountNUnitTests.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAADwv0kAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAJEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T01:30:10.409Z",
               "EditorCaption": ""
@@ -55,7 +55,8 @@
               "RelativeToolTip": "Sparky\\BankAccount.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:12:25.61Z"
+              "WhenOpened": "2025-05-13T00:12:25.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,9 +66,10 @@
               "RelativeDocumentMoniker": "Sparky\\LogBook.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\LogBook.cs",
               "RelativeToolTip": "Sparky\\LogBook.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:08:40.459Z"
+              "WhenOpened": "2025-05-13T00:08:40.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,9 +79,10 @@
               "RelativeDocumentMoniker": "Sparky\\ILogBook.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Sparky\\ILogBook.cs",
               "RelativeToolTip": "Sparky\\ILogBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:06:56.981Z"
+              "WhenOpened": "2025-05-13T00:06:56.981Z",
+              "EditorCaption": ""
             }
           ]
         },

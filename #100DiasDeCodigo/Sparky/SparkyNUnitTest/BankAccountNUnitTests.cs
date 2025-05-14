@@ -101,5 +101,50 @@ namespace Sparky
 
             ClassicAssert.That(logMock.Object.MessageWithReturnString("HeLlo"), Is.EqualTo(desiredOutput));
         }
+
+        [Test]
+        public void BankLogDummy_LogMockStringOutputStr_ReturnsTrue()
+        {
+            var logMock = new Mock<ILogBook>();
+            string desiredOutput = "hello";
+
+            logMock.Setup(u => u.LogWithOutputResult(It.IsAny<string>(), 
+                out desiredOutput)).Returns(true);
+
+            string result = "";
+            ClassicAssert.IsTrue(logMock.Object.LogWithOutputResult("Ben", out result));
+
+            ClassicAssert.That(result, Is.EqualTo(desiredOutput));
+        }
+
+        [Test]
+        public void BankLogDummy_LogRefChecker_ReturnsTrue()
+        {
+            var logMock = new Mock<ILogBook>();
+            Customer customer = new Customer();
+            Customer customerNotUsed = new Customer();
+
+            logMock.Setup(u => u.LogWithRefObj(ref customer)).Returns(true);
+
+            ClassicAssert.IsTrue(logMock.Object.LogWithRefObj(ref customer));
+            ClassicAssert.IsFalse(logMock.Object.LogWithRefObj(ref customerNotUsed));
+        }
+
+        [Test]
+        public void BankLogDummy_SetAndGetLogTypeAndSeverityMock_MockTest()
+        {
+            var logMock = new Mock<ILogBook>();
+
+            logMock.Setup(u => u.LogSeverity).Returns(10); //Defines a fixed behavior for LogSeverity,
+            //always returning 10, ignoring any value assigned afterwards.
+
+            logMock.SetupAllProperties(); // method to asign values
+            logMock.Setup(u => u.LogType).Returns("warning");
+            
+            logMock.Object.LogSeverity = 100;
+
+            ClassicAssert.That(logMock.Object.LogSeverity, Is.EqualTo(100));
+            ClassicAssert.That(logMock.Object.LogType, Is.EqualTo("warning"));
+        }
     }
 }
