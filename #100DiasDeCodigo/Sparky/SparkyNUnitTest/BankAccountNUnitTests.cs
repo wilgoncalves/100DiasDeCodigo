@@ -145,6 +145,42 @@ namespace Sparky
 
             ClassicAssert.That(logMock.Object.LogSeverity, Is.EqualTo(100));
             ClassicAssert.That(logMock.Object.LogType, Is.EqualTo("warning"));
+
+            // Callbacks:
+            string logTemp = "Hello, ";
+            logMock.Setup(u => u.LogToDb(It.IsAny<string>()))
+                .Returns(true).Callback((string str) => logTemp += str);
+
+            logMock.Object.LogToDb("Ben");
+            ClassicAssert.That(logTemp, Is.EqualTo("Hello, Ben"));
+
+            // Callbacks:
+            int counter = 5;
+            logMock.Setup(u => u.LogToDb(It.IsAny<string>()))
+                .Callback(() => counter++) // It can also be called before the return statement.
+                .Returns(true)
+                .Callback(() => counter++);
+
+            logMock.Object.LogToDb("Ben");
+            logMock.Object.LogToDb("Ben");
+            ClassicAssert.That(counter, Is.EqualTo(9));
+        }
+
+        [Test]
+        public void BankLogDummy_VerifyExample()
+        {
+            var logMock = new Mock<ILogBook>();
+            BankAccount bankAccount = new BankAccount(logMock.Object);
+            
+            bankAccount.Deposit(100);
+            ClassicAssert.That(bankAccount.GetBalance(), Is.EqualTo(100));
+
+            // Verification:
+            logMock.Verify(u => u.Message(It.IsAny<string>()), Times.Exactly(2));
+            logMock.Verify(u => u.Message("Deposit invoked."), Times.AtLeastOnce);
+            logMock.Verify(u => u.Message("Test."), Times.AtLeastOnce);
+            logMock.VerifySet(u => u.LogSeverity = 101, Times.Once);
+            logMock.VerifyGet(u => u.LogSeverity, Times.Once);
         }
     }
 }
