@@ -1,49 +1,45 @@
-﻿//using NUnit.Framework;
-//using NUnit.Framework.Legacy;
-//using Sparky;
+﻿using Xunit;
 
-//namespace Sparky
-//{
-//    [TestFixture]
-//    public class FiboXUnitTests
-//    {
-//        private Fibo? _fibo;
+namespace Sparky
+{
+    public class FiboXUnitTests
+    {
+        private Fibo? _fibo;
 
-//        [SetUp]
-//        public void SetUp()
-//        {
-//            _fibo = new Fibo();
-//        }
+        public FiboXUnitTests()
+        {
+            _fibo = new Fibo();
+        }
 
-//        [Test]
-//        public void FiboChecker_InputRange1_ReturnsFiboSeries()
-//        {
-//            List<int> expectedRange = new() { 0 };
+        [Fact]
+        public void FiboChecker_InputRange1_ReturnsFiboSeries()
+        {
+            List<int> expectedRange = new() { 0 };
 
-//            _fibo!.Range = 1;
+            _fibo!.Range = 1;
 
-//            List<int> result = _fibo!.GetFiboSeries();
+            List<int> result = _fibo!.GetFiboSeries();
 
-//            ClassicAssert.That(result, Is.Not.Empty);
-//            ClassicAssert.That(result, Is.Ordered);
-//            ClassicAssert.That(result, Is.EquivalentTo(expectedRange));
-//        }
+            Assert.NotEmpty(result);
+            Assert.Equal(expectedRange.OrderBy(u => u), result);
+            Assert.True(result.SequenceEqual(expectedRange));
+        }
 
-//        [Test]
-//        public void FiboChecker_InputRange6_ReturnsFiboSeries()
-//        {
-//            List<int> expectedRange = new() { 0, 1, 1, 2, 3, 5 };
+        [Fact]
+        public void FiboChecker_InputRange6_ReturnsFiboSeries()
+        {
+            List<int> expectedRange = new() { 0, 1, 1, 2, 3, 5 };
 
-//            _fibo!.Range = 6;
+            _fibo!.Range = 6;
 
-//            List<int> result = _fibo!.GetFiboSeries();
+            List<int> result = _fibo!.GetFiboSeries();
 
-//            ClassicAssert.That(result, Does.Contain(3));
-//            ClassicAssert.That(result.Count, Is.EqualTo(6));
-//            ClassicAssert.That(result, Has.No.Member(4));
-//            ClassicAssert.That(result, Is.EquivalentTo(expectedRange));
-//        }
+            Assert.Contains(3, result);
+            Assert.Equal(6, result.Count);
+            Assert.DoesNotContain(4, result);
+            Assert.Equal(expectedRange, result);
+        }
 
-//    }
+    }
 
-//}
+}
