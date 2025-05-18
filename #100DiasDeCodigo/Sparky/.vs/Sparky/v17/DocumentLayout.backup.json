@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\bankaccountxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\bankaccountxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C233335-A125-51EB-A6D6-068010CE28EB}|Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\bongo_initialsetup (.net 6)\\bongo.web\\bongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C233335-A125-51EB-A6D6-068010CE28EB}|Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj|solutionrelative:bongo_initialsetup (.net 6)\\bongo.web\\bongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\customerxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\customerxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\productxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\productxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\fiboxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\fiboxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\calculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\calculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\sparkyxunit\\gradingcalculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DAB79D-D97B-4B2F-9AEE-51C032D3B309}|SparkyXUnit\\SparkyXUnit.csproj|solutionrelative:sparkyxunit\\gradingcalculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C233335-A125-51EB-A6D6-068010CE28EB}|Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\sparky\\bongo_initialsetup (.net 6)\\bongo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C233335-A125-51EB-A6D6-068010CE28EB}|Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj|solutionrelative:bongo_initialsetup (.net 6)\\bongo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccountXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\BankAccountXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\BankAccountXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\BankAccountXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\BankAccountXUnitTests.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T16:24:38.423Z",
+              "Title": "Bongo.Web",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+              "RelativeDocumentMoniker": "Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+              "RelativeToolTip": "Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T15:13:56.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\CustomerXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\CustomerXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\CustomerXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\CustomerXUnitTests.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T16:00:52.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\ProductXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\ProductXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\ProductXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\ProductXUnitTests.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:48:21.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FiboXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\FiboXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\FiboXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\FiboXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\FiboXUnitTests.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:16:02.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GradingCalculatorXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\GradingCalculatorXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\GradingCalculatorXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\GradingCalculatorXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\GradingCalculatorXUnitTests.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T13:21:22.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculatorXUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\CalculatorXUnitTests.cs",
-              "RelativeDocumentMoniker": "SparkyXUnit\\CalculatorXUnitTests.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\SparkyXUnit\\CalculatorXUnitTests.cs",
-              "RelativeToolTip": "SparkyXUnit\\CalculatorXUnitTests.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:34:32.189Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Bongo_InitialSetup (.NET 6)\\Bongo.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Sparky\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\appsettings.json",
+              "RelativeToolTip": "Bongo_InitialSetup (.NET 6)\\Bongo.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T14:37:28.342Z",
               "EditorCaption": ""
             }
           ]

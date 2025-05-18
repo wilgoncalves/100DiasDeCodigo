@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparkyXUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b58c9f552bf45ff82ab47eee1ba378b4c881f55e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a88be61fe2c49438255662646f82b503471a134f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparkyXUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparkyXUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
