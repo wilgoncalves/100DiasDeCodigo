@@ -154,3 +154,5 @@ Resolução de questões do BeeCrowd</a>
 * 75 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Sparky/SparkyXUnit"> Sparky Project - Criando testes xUnit</a>
 
 * 76 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Sparky/SparkyXUnit"> Sparky Project - Criando testes xUnit II</a>
+
+* 77 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Sparky/Bongo_InitialSetup%20(.NET%206)"> Bongo Project - Configurando projeto</a>
