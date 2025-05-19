@@ -1,11 +1,7 @@
 ﻿using Bongo.DataAccess.Repository.IRepository;
 using Bongo.Models.Model;
-using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Bongo.DataAccess.Repository
 {
@@ -17,12 +13,9 @@ namespace Bongo.DataAccess.Repository
             _db = db;
         }
       
-    
         public IEnumerable<StudyRoom> GetAll()
         {
             return  _db.StudyRooms.ToList();
         }
-
-
     }
 }

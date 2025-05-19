@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Models", "Bongo_Initi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Web", "Bongo_InitialSetup (.NET 6)\Bongo.Web\Bongo.Web.csproj", "{0C233335-A125-51EB-A6D6-068010CE28EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Models.Tests", "Bongo.Models.Tests\Bongo.Models.Tests.csproj", "{D695F7F2-88C8-4217-A156-76DB4709CE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.DataAccess.Tests", "Bongo.DataAccess.Tests\Bongo.DataAccess.Tests.csproj", "{3B276187-D079-46FF-9A9C-B398A057DB42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +65,14 @@ Global
 		{0C233335-A125-51EB-A6D6-068010CE28EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C233335-A125-51EB-A6D6-068010CE28EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C233335-A125-51EB-A6D6-068010CE28EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D695F7F2-88C8-4217-A156-76DB4709CE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D695F7F2-88C8-4217-A156-76DB4709CE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D695F7F2-88C8-4217-A156-76DB4709CE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D695F7F2-88C8-4217-A156-76DB4709CE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B276187-D079-46FF-9A9C-B398A057DB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B276187-D079-46FF-9A9C-B398A057DB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B276187-D079-46FF-9A9C-B398A057DB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B276187-D079-46FF-9A9C-B398A057DB42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +86,8 @@ Global
 		{35FB5F8C-3980-C63C-79C8-44493D7270E8} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 		{FE41041F-44F8-25E1-32FB-467BE887C70C} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 		{0C233335-A125-51EB-A6D6-068010CE28EB} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
+		{D695F7F2-88C8-4217-A156-76DB4709CE9D} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
+		{3B276187-D079-46FF-9A9C-B398A057DB42} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6BDCCA4-3FE9-4B7C-AC5B-7759CB2C16A1}

@@ -1,10 +1,5 @@
 ﻿using Bongo.Core.Services.IServices;
-using Bongo.Models.Model;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Bongo.Web.Controllers
 {
@@ -19,7 +14,5 @@ namespace Bongo.Web.Controllers
         {
             return View(_studyRoomService.GetAll());
         }
-
-       
     }
 }

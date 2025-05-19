@@ -3,8 +3,6 @@ using Bongo.Models.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Bongo.DataAccess.Repository
 {
@@ -16,8 +14,7 @@ namespace Bongo.DataAccess.Repository
         {
             _context = context;
         }
-
-       
+  
         public IEnumerable<StudyRoomBooking> GetAll(DateTime? date)
         {
             if (date != null)
