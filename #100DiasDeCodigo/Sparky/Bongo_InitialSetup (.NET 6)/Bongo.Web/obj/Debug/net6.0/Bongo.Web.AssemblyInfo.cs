@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bongo.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1610fe2ac6de0af463df6985f6ea078aa33f2d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695f3553cf7d0646b12954c6e36bee4a38586a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bongo.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bongo.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
