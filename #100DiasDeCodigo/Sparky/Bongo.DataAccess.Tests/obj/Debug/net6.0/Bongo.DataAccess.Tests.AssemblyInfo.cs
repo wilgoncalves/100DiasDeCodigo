@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bongo.DataAccess.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695f3553cf7d0646b12954c6e36bee4a38586a44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5762d9c0a66a31881c4d44085ff7381923600ba3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bongo.DataAccess.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bongo.DataAccess.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

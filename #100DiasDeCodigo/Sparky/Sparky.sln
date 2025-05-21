@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Models.Tests", "Bongo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.DataAccess.Tests", "Bongo.DataAccess.Tests\Bongo.DataAccess.Tests.csproj", "{3B276187-D079-46FF-9A9C-B398A057DB42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Core.Tests", "Bongo.Core.Tests\Bongo.Core.Tests.csproj", "{30056758-BB3B-4597-90EA-8E1ED8A6788D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Web.Tests", "Bongo.Web.Tests\Bongo.Web.Tests.csproj", "{28DB1D8F-4552-460F-BF23-19E02C40C562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{3B276187-D079-46FF-9A9C-B398A057DB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B276187-D079-46FF-9A9C-B398A057DB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B276187-D079-46FF-9A9C-B398A057DB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30056758-BB3B-4597-90EA-8E1ED8A6788D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30056758-BB3B-4597-90EA-8E1ED8A6788D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30056758-BB3B-4597-90EA-8E1ED8A6788D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30056758-BB3B-4597-90EA-8E1ED8A6788D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DB1D8F-4552-460F-BF23-19E02C40C562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DB1D8F-4552-460F-BF23-19E02C40C562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DB1D8F-4552-460F-BF23-19E02C40C562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DB1D8F-4552-460F-BF23-19E02C40C562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +100,8 @@ Global
 		{0C233335-A125-51EB-A6D6-068010CE28EB} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 		{D695F7F2-88C8-4217-A156-76DB4709CE9D} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 		{3B276187-D079-46FF-9A9C-B398A057DB42} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
+		{30056758-BB3B-4597-90EA-8E1ED8A6788D} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
+		{28DB1D8F-4552-460F-BF23-19E02C40C562} = {F98DEC15-E071-46C2-A63D-CD2D102B9123}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6BDCCA4-3FE9-4B7C-AC5B-7759CB2C16A1}
