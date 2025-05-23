@@ -162,3 +162,5 @@ Resolução de questões do BeeCrowd</a>
 * 79 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Sparky/Bongo.DataAccess.Tests/StudyRoomBookingRepositoryTests.cs"> Bongo Project - Realizando testes com integração de banco de dados</a>
 
 * 80 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Sparky"> Bongo Project - Finalizando testes unitários</a>
+
+* 81 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Classes"> Princípios SOLID - Classes e objetos</a>
