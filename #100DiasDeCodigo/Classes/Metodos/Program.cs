@@ -33,9 +33,9 @@ internal class Program
         Enviar(assunto: "Enviar rascunho do projeto", titulo: "Enviar rascunho",
             destino: "wil@gmail.com");
 
-        Enviar(titulo: "Ligar urgente", destino: "wil@gmail.com", 
+        Enviar(titulo: "Ligar urgente", destino: "wil@gmail.com",
             assunto: "Ligar para o diretor");
-        
+
         Console.WriteLine();
 
         //Métodos estáticos
@@ -53,5 +53,25 @@ internal class Program
         palavra2 = palavra2.CaixaAltaPrimeiraLetra();
         Console.WriteLine(palavra1);
         Console.WriteLine(palavra2);
+
+        // Sobrecarga:
+        var a = Calculadora.Somar();
+        Console.WriteLine(a);
+
+        var b = Calculadora.Somar(3, 5);
+        Console.WriteLine(b);
+
+        var c = Calculadora.Somar(6.7, 2.4);
+        Console.WriteLine(c);
+
+        // parâmetros opcionais
+        var a1 = Calculadora.Somar(1);
+        Console.WriteLine(a1);
+
+        var a2 = Calculadora.Somar(1, 4, 7);
+        Console.WriteLine(a2);
+
+        var a3 = Calculadora.Somar(2, 5, 7, 9);
+        Console.WriteLine(a3);
     }
 }

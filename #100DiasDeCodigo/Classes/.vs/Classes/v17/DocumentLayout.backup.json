@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 319,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -42,8 +46,7 @@
               "RelativeToolTip": "Heranca\\ContaPoupanca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:03:28.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:03:28.158Z"
             },
             {
               "$type": "Document",
@@ -55,8 +58,7 @@
               "RelativeToolTip": "Heranca\\Conta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:03:12.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:03:12.364Z"
             },
             {
               "$type": "Document",
@@ -66,7 +68,7 @@
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
               "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Classes\\Heranca\\Program.cs",
               "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwBsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T13:02:57.193Z",
               "EditorCaption": ""
