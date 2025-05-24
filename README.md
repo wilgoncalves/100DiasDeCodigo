@@ -166,3 +166,5 @@ Resolução de questões do BeeCrowd</a>
 * 81 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Classes"> Princípios SOLID - Classes e objetos</a>
 
 * 82 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Classes"> Princípios SOLID - Métodos e herança</a>
+
+* 83 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Classes/Heranca/Program.cs"> Princípios SOLID - Operadores IS e AS</a>
