@@ -1,0 +1,5 @@
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\UML-DiagramaClasses\UML-DiagramaClasses\obj\Debug\net9.0\UML-DiagramaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\UML-DiagramaClasses\UML-DiagramaClasses\obj\Debug\net9.0\UML-DiagramaClasses.AssemblyInfoInputs.cache
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\UML-DiagramaClasses\UML-DiagramaClasses\obj\Debug\net9.0\UML-DiagramaClasses.AssemblyInfo.cs
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\UML-DiagramaClasses\UML-DiagramaClasses\obj\Debug\net9.0\UML-DiagramaClasses.csproj.CoreCompileInputs.cache
+C:\Users\wilsa\OneDrive\Desktop\100 dias de código\#100DiasDeCodigo\UML-DiagramaClasses\UML-DiagramaClasses\obj\Debug\net9.0\UML-DiagramaClasses.sourcelink.json

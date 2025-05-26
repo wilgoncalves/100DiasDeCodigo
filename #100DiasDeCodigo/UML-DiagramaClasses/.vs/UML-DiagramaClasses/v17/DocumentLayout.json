@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-diagramaclasses\\diagramaclasses.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|solutionrelative:uml-diagramaclasses\\diagramaclasses.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-agregacao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|solutionrelative:uml-agregacao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-diagramaclasses\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|solutionrelative:uml-diagramaclasses\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|solutionrelative:uml-agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-diagramaclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05DFAECC-308C-491F-B503-00F483EDBD70}|UML-DiagramaClasses\\UML-DiagramaClasses.csproj|solutionrelative:uml-diagramaclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|solutionrelative:uml-agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\uml-diagramaclasses\\uml-agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F67FE7-E9D7-4538-8BE7-43A63D3254E2}|UML-Agregacao\\UML-Agregacao.csproj|solutionrelative:uml-agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "UML-Agregacao\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\ClassDiagram1.cd",
+              "RelativeToolTip": "UML-Agregacao\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-26T14:14:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Professor.cs",
+              "RelativeDocumentMoniker": "UML-Agregacao\\Professor.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Professor.cs",
+              "RelativeToolTip": "UML-Agregacao\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:11:44.408Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -38,40 +67,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DiagramaClasses.cd",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\DiagramaClasses.cd",
-              "RelativeDocumentMoniker": "UML-DiagramaClasses\\DiagramaClasses.cd",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\DiagramaClasses.cd",
-              "RelativeToolTip": "UML-DiagramaClasses\\DiagramaClasses.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-05-25T14:19:59.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\Pessoa.cs",
-              "RelativeDocumentMoniker": "UML-DiagramaClasses\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\Pessoa.cs",
-              "RelativeToolTip": "UML-DiagramaClasses\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Departamento.cs",
+              "RelativeDocumentMoniker": "UML-Agregacao\\Departamento.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Departamento.cs",
+              "RelativeToolTip": "UML-Agregacao\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:05:40.8Z",
+              "WhenOpened": "2025-05-26T14:11:32.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\Program.cs",
-              "RelativeDocumentMoniker": "UML-DiagramaClasses\\Program.cs",
-              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-DiagramaClasses\\Program.cs",
-              "RelativeToolTip": "UML-DiagramaClasses\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Program.cs",
+              "RelativeDocumentMoniker": "UML-Agregacao\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\UML-DiagramaClasses\\UML-Agregacao\\Program.cs",
+              "RelativeToolTip": "UML-Agregacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:03:20.764Z",
+              "WhenOpened": "2025-05-26T14:11:17.406Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UML-DiagramaClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ecfc9a76802ec1e9494e5f5c435bd6cca68e635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3335ddc6b8fa653aa36907ea3fd006c518314ae1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UML-DiagramaClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UML-DiagramaClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
