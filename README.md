@@ -170,3 +170,5 @@ Resolução de questões do BeeCrowd</a>
 * 83 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/blob/master/%23100DiasDeCodigo/Classes/Heranca/Program.cs"> Princípios SOLID - Operadores IS e AS</a>
 
 * 84 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/UML-DiagramaClasses"> Princípios SOLID - Diagrama UML</a>
+
+* 85 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Classes> Diagramas UML</a> | <a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/ClassesAbstratas"> Classes abstratas</a>
