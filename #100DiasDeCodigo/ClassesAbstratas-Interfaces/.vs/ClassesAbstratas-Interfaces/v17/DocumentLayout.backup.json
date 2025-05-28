@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\classesabstratas-interfaces\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\classesabstratas-interfaces\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\classesabstratas-interfaces\\polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\classesabstratas-interfaces\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6E7AC0-6258-442B-AEC8-5022EFE3A9BD}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:43:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Circulo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Circulo.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Circulo.cs",
+              "RelativeToolTip": "Polimorfismo\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:40:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "Polimorfismo\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:38:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Figura.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\ClassesAbstratas-Interfaces\\Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "Polimorfismo\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:38:28.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
