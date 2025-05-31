@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\open-closed-principle\\open-closed-principle\\extensions\\produtoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|solutionrelative:open-closed-principle\\extensions\\produtoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\open-closed-principle\\open-closed-principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|solutionrelative:open-closed-principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\open-closed-principle\\open-closed-principle\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBE75E-B798-4345-8788-05ED020EB7F5}|Open-Closed-Principle\\Open-Closed-Principle.csproj|solutionrelative:open-closed-principle\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoExtension.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Extensions\\ProdutoExtension.cs",
+              "RelativeDocumentMoniker": "Open-Closed-Principle\\Extensions\\ProdutoExtension.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Extensions\\ProdutoExtension.cs",
+              "RelativeToolTip": "Open-Closed-Principle\\Extensions\\ProdutoExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:31:39.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Produto.cs",
+              "RelativeDocumentMoniker": "Open-Closed-Principle\\Produto.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Produto.cs",
+              "RelativeToolTip": "Open-Closed-Principle\\Produto.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:12:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Program.cs",
+              "RelativeDocumentMoniker": "Open-Closed-Principle\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Open-Closed-Principle\\Open-Closed-Principle\\Program.cs",
+              "RelativeToolTip": "Open-Closed-Principle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:10:44.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
