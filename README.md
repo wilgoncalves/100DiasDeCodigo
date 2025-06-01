@@ -182,3 +182,5 @@ Resolução de questões do BeeCrowd</a>
 * 89 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/SingleResponsability/SingleResponsability"> Princípios SOLID - Single Responsability Principle</a>
 
 * 90 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Open-Closed-Principle/Open-Closed-Principle"> Princípios SOLID - Open-Closed Principle</a>
+
+* 91 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Liskov-Substitution/Liskov-Substitution"> Princípios SOLID - Liskov Substitution Principle</a>
