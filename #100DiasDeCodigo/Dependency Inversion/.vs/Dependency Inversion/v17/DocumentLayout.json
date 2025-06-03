@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\dependency inversion\\dependency inversion\\recuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|solutionrelative:dependency inversion\\recuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\dependency inversion\\dependency inversion\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|solutionrelative:dependency inversion\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\dependency inversion\\dependency inversion\\mysqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|solutionrelative:dependency inversion\\mysqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\dependency inversion\\dependency inversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727638E-F190-4581-8135-3AF468C412BF}|Dependency Inversion\\Dependency Inversion.csproj|solutionrelative:dependency inversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\IDataBaseConnection.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion\\IDataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\IDataBaseConnection.cs",
+              "RelativeToolTip": "Dependency Inversion\\IDataBaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:23:58.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\MySqlConnection.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion\\MySqlConnection.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\MySqlConnection.cs",
+              "RelativeToolTip": "Dependency Inversion\\MySqlConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:17:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecuperarSenha.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\RecuperarSenha.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion\\RecuperarSenha.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\RecuperarSenha.cs",
+              "RelativeToolTip": "Dependency Inversion\\RecuperarSenha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:17:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\Dependency Inversion\\Dependency Inversion\\Program.cs",
+              "RelativeToolTip": "Dependency Inversion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:54:23.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
