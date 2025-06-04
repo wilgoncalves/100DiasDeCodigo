@@ -188,3 +188,5 @@ Resolução de questões do BeeCrowd</a>
 * 92 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Interface-Segregation/Interface-Segregation"> Princípios SOLID - Interface Segregation Principle</a>
 
 * 93 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/Dependency%20Inversion/Dependency%20Inversion"> Princípios SOLID - Dependency Inversion Principle</a>
+
+* 94 dias de código -<a href="https://github.com/wilgoncalves/100DiasDeCodigo/tree/master/%23100DiasDeCodigo/SOLID/Exercicio1"> Exercício para aplicação dos princípios SOLID</a>
