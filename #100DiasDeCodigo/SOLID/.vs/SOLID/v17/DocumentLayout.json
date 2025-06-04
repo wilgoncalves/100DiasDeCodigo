@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\gerenciadordedescontos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\gerenciadordedescontos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\interfaces\\icalculadescontostatusconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\interfaces\\icalculadescontostatusconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\entities\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\entities\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\entities\\clienteespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\entities\\clienteespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\entities\\clientecomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\entities\\clientecomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\solid\\exercicio1\\entities\\clientenaoregistrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3EF21-09E5-4AC3-BDFB-97C918FB4E54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\entities\\clientenaoregistrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Entities\\ClienteVip.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteVip.cs",
+              "RelativeToolTip": "Exercicio1\\Entities\\ClienteVip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:32:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteEspecial.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Entities\\ClienteEspecial.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteEspecial.cs",
+              "RelativeToolTip": "Exercicio1\\Entities\\ClienteEspecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:31:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorDeDescontos.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\GerenciadorDeDescontos.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\GerenciadorDeDescontos.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\GerenciadorDeDescontos.cs",
+              "RelativeToolTip": "Exercicio1\\GerenciadorDeDescontos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:27:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteComum.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteComum.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Entities\\ClienteComum.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteComum.cs",
+              "RelativeToolTip": "Exercicio1\\Entities\\ClienteComum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:30:11.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculaDescontoStatusConta.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Interfaces\\ICalculaDescontoStatusConta.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Interfaces\\ICalculaDescontoStatusConta.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Interfaces\\ICalculaDescontoStatusConta.cs",
+              "RelativeToolTip": "Exercicio1\\Interfaces\\ICalculaDescontoStatusConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:26:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteNaoRegistrado.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteNaoRegistrado.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Entities\\ClienteNaoRegistrado.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\SOLID\\Exercicio1\\Entities\\ClienteNaoRegistrado.cs",
+              "RelativeToolTip": "Exercicio1\\Entities\\ClienteNaoRegistrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:28:44.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
