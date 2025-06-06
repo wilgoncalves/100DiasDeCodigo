@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\cursofoop_solid_exercicio2\\cursofoop_solid_exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|solutionrelative:cursofoop_solid_exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\cursofoop_solid_exercicio2\\cursofoop_solid_exercicio2\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|solutionrelative:cursofoop_solid_exercicio2\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\cursofoop_solid_exercicio2\\cursofoop_solid_exercicio2\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|solutionrelative:cursofoop_solid_exercicio2\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\cursofoop_solid_exercicio2\\cursofoop_solid_exercicio2\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|solutionrelative:cursofoop_solid_exercicio2\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|c:\\users\\wilsa\\onedrive\\desktop\\100 dias de c\u00F3digo\\#100diasdecodigo\\cursofoop_solid_exercicio2\\cursofoop_solid_exercicio2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2BB01-E771-4AFD-A069-252893D8EEA9}|CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj|solutionrelative:cursofoop_solid_exercicio2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1496564960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "CursoFoop_Solid_Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\Program.cs",
+              "RelativeToolTip": "CursoFoop_Solid_Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:30:37.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\FileLogger.cs",
+              "RelativeDocumentMoniker": "CursoFoop_Solid_Exercicio2\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\FileLogger.cs",
+              "RelativeToolTip": "CursoFoop_Solid_Exercicio2\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:25:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\ILogger.cs",
+              "RelativeDocumentMoniker": "CursoFoop_Solid_Exercicio2\\ILogger.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\ILogger.cs",
+              "RelativeToolTip": "CursoFoop_Solid_Exercicio2\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:24:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "CursoFoop_Solid_Exercicio2\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\ConsoleLogger.cs",
+              "RelativeToolTip": "CursoFoop_Solid_Exercicio2\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:14:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\Pedido.cs",
+              "RelativeDocumentMoniker": "CursoFoop_Solid_Exercicio2\\Pedido.cs",
+              "ToolTip": "C:\\Users\\wilsa\\OneDrive\\Desktop\\100 dias de c\u00F3digo\\#100DiasDeCodigo\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\Pedido.cs",
+              "RelativeToolTip": "CursoFoop_Solid_Exercicio2\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:14:32.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
